@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andres Vargas ancubero@gmail.com @ancubero
 
 # THANKS
 
